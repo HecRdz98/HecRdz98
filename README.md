@@ -39,7 +39,7 @@ I design and build intelligent conversational systems powered by Large Language 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/laravel/laravel-plain.svg" width="40"/>
 </p>
 
 - RESTful API design
@@ -101,11 +101,14 @@ I design and build intelligent conversational systems powered by Large Language 
 # 🔌 API Integrations
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/meta.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/stripe.svg" width="40"/>
+  
 </p>
 
-- WhatsApp Business API (Meta)
+- WhatsApp Business API (Meta business)
 - Google Maps API
 - Google Calendar API
 - Stripe API
