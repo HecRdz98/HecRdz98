@@ -104,7 +104,7 @@ I design and build intelligent conversational systems powered by Large Language 
   <img src="https://cdn.simpleicons.org/meta" width="40"/>
   <img src="https://cdn.simpleicons.org/whatsapp" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/stripe.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/stripe" width="40"/>
   
 </p>
 
