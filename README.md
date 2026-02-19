@@ -7,7 +7,7 @@ AI Conversational Systems • Real-Time Voice Agents • Scalable Backend Archit
 
 ---
 
-## 🧠 AI & Conversational Systems
+## 🧠 AI
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
@@ -15,25 +15,21 @@ AI Conversational Systems • Real-Time Voice Agents • Scalable Backend Archit
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="35"/>
 </p>
 
-- LLMs, Transformers, Prompt Engineering  
-- RAG & Vector Databases  
-- Multi-Agent Systems  
-- Real-Time Voice AI (LiveKit, WebRTC, SIP)  
-- STT / TTS Integrations  
+LLMs • Transformers • Prompt Engineering • RAG • Embeddings • Vector DBs  
+Multi-Agent Systems • LiveKit (WebRTC/SIP) • STT / TTS  
 
 ---
 
-## 🛠 Backend & APIs
+## 🛠 Backend
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/laravel/laravel-original.svg" width="35"/>
 </p>
 
-FastAPI • REST APIs • JWT • Webhooks  
-WhatsApp (Meta) • Google APIs • Stripe  
+FastAPI • REST • JWT • Webhooks • Stripe • WhatsApp (Meta)
 
 ---
 
@@ -43,23 +39,38 @@ WhatsApp (Meta) • Google APIs • Stripe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35"/>
 </p>
 
-React • Vue • Modern JavaScript  
+React • Vue • JavaScript • Responsive UI  
 
 ---
 
-## 🗄 Databases & Infrastructure
+## 🗄 Databases & Infra
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
 </p>
 
 MySQL • SQL Server  
 Linux • Linode • cPanel • ngrok • tmux  
 Asterisk • Kamailio  
+
+---
+
+## 🔌 APIs
+
+<p>
+  <img src="https://cdn.simpleicons.org/meta" width="35"/>
+  <img src="https://cdn.simpleicons.org/whatsapp" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/>
+  <img src="https://cdn.simpleicons.org/stripe" width="35"/>
+</p>
+
+WhatsApp Business • Google Maps • Google Calendar • Stripe  
 
 ---
 
