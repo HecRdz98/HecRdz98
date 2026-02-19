@@ -74,8 +74,6 @@ WhatsApp Business • Google Maps • Google Calendar • Stripe
 
 ---
 
-## 🔥 GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HecRdz98&theme=dark" />
 </p>
